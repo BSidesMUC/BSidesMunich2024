@@ -1,6 +1,6 @@
 ---
 layout: textpage
-title: BSides Munich 2024 - 7 SYNs
+title: BSides Munich 2024
 
 show_map: true
 ---

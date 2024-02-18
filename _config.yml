@@ -83,10 +83,10 @@ conference:
   archive:
     a2023:
       title: "BSides Munich 2023"
-      participants: 232
-      presentations: 18
-      workshops: 4
-      hours: 30
+      participants: 991338
+      presentations: 1338
+      workshops: 1338
+      hours: 1338
       website_uri: https://2023.bsidesmunich.org
       recordings_uri: https://www.youtube.com/watch?v=A0InqK78dME&list=PL8N5HiRDvZ-dVdLNXf6kC3WDi8AWBS27g
       slider:
