@@ -35,6 +35,16 @@ docker run --rm \
     jekyll serve --watch --incremental --trace
 ```
 
+# Building Errors
+
+## Octokit::NotFound
+
+The repository needs to be public.
+
+```
+GET https://api.github.com/repos/BSidesMUC/BSidesMunich2024: 404 - Not Found // See: https://docs.github.com/rest/repos/repos#get-a-repository (Octokit::NotFound)
+```
+
 ## References
  
  - https://github.com/envygeeks/jekyll-docker
