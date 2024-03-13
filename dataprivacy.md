@@ -9,10 +9,13 @@ robots: noindex
 
 We take the protection and security of your personal data seriously and would like to give you an overview of the processing of your personal data with the following information and inform you about your rights under the European General Data Protection Regulation (GDPR).
 
+* toc
+{:toc}
+
 Name and contact details of the controller
 ------------------------------------------
 
-MUC:SEC e.V.c/o Kemetmüller  
+MUC:SEC e.V. c/o Kemetmüller  
 Hans-Sachs-Str 5.801, 80469 München  
 Chair: Christoph Kemetmüller  
 Vice-Chair: Sneha Rajguru  
