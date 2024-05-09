@@ -1,6 +1,6 @@
 ---
 layout: textpage
-title: BSides Munich 2024
+title: BSides Munich 2024: 8-Bit
 
 show_map: true
 ---
