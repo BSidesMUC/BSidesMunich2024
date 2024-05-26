@@ -476,7 +476,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider-work Start
 --*/
 #global-header {
-  background: url("../img/slider-bg.png") no-repeat;
+  background: url("../img/header-logo.png") no-repeat;
   background-color: #e1e0e6;
   padding-top: 200px;
   padding-bottom: 107px;
