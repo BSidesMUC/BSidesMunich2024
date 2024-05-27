@@ -1,6 +1,6 @@
 ---
 layout: textpage
-title: BSides Munich 2024 :: 8-Bit Edition :: Forged by HI
+title: BSides Munich 2024 - 8-Bit Edition
 
 show_map: true
 ---
