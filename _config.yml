@@ -90,7 +90,11 @@ conference:
       website_uri: https://2023.bsidesmunich.org
       recordings_uri: https://www.youtube.com/watch?v=A0InqK78dME&list=PL8N5HiRDvZ-dVdLNXf6kC3WDi8AWBS27g
       slider:
-      - src: img/slider-bg.png
+      - src: img/slider2023/IMG_9105.jpg
+      - src: img/slider2023/PA153989-MS.JPEG
+      - src: img/slider2023/PA154872-MS.jpg
+      - src: img/slider2023/IMG_596CCE99F00E-1.jpg
+      - src: img/slider2023/PA155152-MS.JPEG
 
 compress_html:
   clippings: all
