@@ -64,15 +64,15 @@ conference:
   dates: 
     deadline_tickets: 
     deadline_cfp: 2024-07-15
-    workshops: 2024-11-10
+    workshops: 2024-11-09
     conference: 2024-11-11
   venue:
     workshopsday:
-      address: 
-      details: "TBD"
+      address: Lothstraße 64, 80335 München
+      details: "Hochschule München"
       gps: 
-        lat:  
-        long:  
+        lat: 48.1550877
+        long: 11.5552597
     conferenceday:
       address: Arabellastraße 6, 81925 München
       details: "The Westin Grand Munich"
