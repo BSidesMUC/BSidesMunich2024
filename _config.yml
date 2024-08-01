@@ -59,7 +59,7 @@ conference:
     sponsorpackage_en_uri:  /files/BSidesMunich2024Sponsorship-English.pdf
     sponsorpackage_de_uri:  # /files/BSidesMunich2024Sponsorship-Deutsch.pdf
     cfp_uri: https://pretalx.com/bsides-munich-2024/cfp
-    contickets_uri: 
+    contickets_uri: https://pretix.eu/bsidesmunich/2024/
       
   dates: 
     deadline_tickets: 
