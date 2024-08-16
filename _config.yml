@@ -32,12 +32,12 @@ collections:
 imprint:
   #name: "BSides Munich, Mr. Frederic Mohr"
   name: "MUC:SEC e.V."
-  addressco: "c/o LastBreach"
-  address: "Rohrauerstraße 70, 81477 München"
+  addressco: "c/o Kemetmüller"
+  address: "Hans-Sachs-Str 5.801, 80469 München"
   email: "manager [at] bsidesmunich [dot] org"
   #phone: "+49 89
   chair: Christoph Kemetmüller
-  vicechair: Ana Oprea
+  vicechair: Sneha Nitin Rajguru
 
 
 conference:
