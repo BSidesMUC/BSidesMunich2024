@@ -11,8 +11,12 @@ speakers:
   handle: false
   name: Daniel Schwendner
   photo: https://pretalx.com/media/avatars/signal-2023-11-03-14-46-14-967-13_LelRG7y.jpg
+- bio: null
+  handle: false
+  name: Aled Jackson
+  photo: ''
 timeslot:
-  duration: 240
+  duration: 480
   end: 2024-11-09 18:00:00+01:00
   start: 2024-11-09 09:00:00+01:00
 title: IoT Device Security
