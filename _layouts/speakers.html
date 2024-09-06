@@ -67,7 +67,10 @@ layout: default
 
       {% endfor %}  
 
+      {% assign p_speaker = "" %}
       {% for talk_speaker in speakers_sorted  %}
+      {% if p_speaker == talk_speaker.name %}
+      {% else %}
       <div class="row">
         <div class="col-md-2 col-md-offset-1 col-xs-8 col-xs-offset-3">
           <div class="block speaker-image">
@@ -93,7 +96,8 @@ layout: default
       </div>
       
       <div class="row">&nbsp;</div>    
-
+      {% endif %}
+      {% assign p_speaker = talk_speaker.name %}
       {% endfor %}  
 
     </div>
