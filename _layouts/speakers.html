@@ -74,7 +74,7 @@ layout: default
       <div class="row">
         <div class="col-md-2 col-md-offset-1 col-xs-8 col-xs-offset-3">
           <div class="block speaker-image">
-      {% if talk_speaker.photo  %}
+      {% if talk_speaker.photo != ""  %}
             <img src="{{ talk_speaker.photo | relative_url }}">          
       {% else %}
             <img src="/img/nemo.png">
