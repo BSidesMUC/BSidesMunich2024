@@ -14,7 +14,7 @@ Also, sponsoring or volunteering is a great way to contribute to a superb BSides
 
 **Registration for the first batch of tickets will open on August 1, 2024 at 18:00 CEST. -- Sold out!** 
 
-**Registration for the main batch of tickets will open on September 8, 2024 at 20:00 CEST.**
+**Registration for the main batch of tickets will open on September 8, 2024 at 20:00 CEST. -- Sold out!**
 
 The waiting list will open with the second batch of tickets.
 
