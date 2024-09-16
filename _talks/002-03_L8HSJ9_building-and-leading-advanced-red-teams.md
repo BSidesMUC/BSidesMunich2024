@@ -5,15 +5,10 @@ details: true
 keynote: false
 layout: talk
 speakers:
-- bio: "Moritz Samrock is an experienced Red Team Lead and part of Bonn-based Laokoon
-    Security, which was founded by a collective of former hackers from the German
-    armed forces and government agencies.\r\nHis professional focus is on OSINT, as
-    well as malware and implant development for Windows.\r\nHe is a lecturer in penetration
-    testing at the Federal University of Applied Sciences in Bruehl and responsible
-    for organizing one of the largest capture-the-flag events in Bonn."
+- bio: "Björn Trappe is one of the founders and managing directors of Laokoon Security, a company formed by a team of former offensive cybersecurity experts from the German armed forces and other security agencies. With a deep specialization in orchestrating and executing Red Team engagements, Björn leads his teams in comprehensive attack strategies that extend beyond IT-perimeter defenses to include physical security breaches. His work is driven by a commitment to exposing and addressing the full spectrum of organizational vulnerabilities."
   handle: false
-  name: Moritz Samrock
-  photo: https://pretalx.com/media/avatars/IT_Security_Portraits-152_Ukpd6pJ.jpg
+  name: Björn Trappe
+  photo: https://pretalx.com/media/avatars/IMG_1941_VSyBQKT.png
 timeslot:
   duration: 30
   end: 2024-11-11 12:00:00+01:00
