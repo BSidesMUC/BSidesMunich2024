@@ -5,7 +5,10 @@ details: true
 keynote: false
 layout: talk
 speakers:
-- bio: null
+- bio: "Software engineer turned security expert with over 10 years of experience.\r\nExtensive
+    expertise in cloud-native security, with hands-on experience across a wide range
+    of security topics. From security reviews, to implementing security infrastructure
+    and tooling all the way to security consulting."
   handle: false
   name: Christian Bauer
   photo: ''
