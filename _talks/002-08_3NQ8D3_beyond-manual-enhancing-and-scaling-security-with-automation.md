@@ -7,8 +7,8 @@ layout: talk
 speakers:
 - bio: "Software engineer turned security expert with over 10 years of experience.\r\nExtensive
     expertise in cloud-native security, with hands-on experience across a wide range
-    of security topics. From security reviews, to implementing security infrastructure
-    and tooling all the way to security consulting."
+    of security topics. From implementing security infrastructure and tooling all
+    the way to security consulting."
   handle: false
   name: Christian Bauer
   photo: ''
@@ -20,6 +20,14 @@ title: 'Beyond Manual: Enhancing and Scaling Security with Automation'
 track: 2
 ---
 
-This presentation explores how automation can alleviate the burden on short-staffed security teams by offloading manual tasks.
-It begins with an example of implementing External Attack Surface Monitoring (EASM) using open-source tools, then expands on the general topic of building a security automation platform.
-The discussion highlights various automatable tasks and available tools.
+Security teams are often short-staffed and overburdened, but many of their tasks can be automated to alleviate this pressure.
+Automation enables the offloading of repetitive and mundane manual work, allowing security teams to focus on more complex and engaging tasks.
+Furthermore, automation facilitates the execution of large-scale security tasks that are not achievable manually.
+
+This presentation will begin by exploring the specific automation example of External Attack Surface Monitoring (EASM), demonstrating its implementation using open-source tools.
+
+Following this, the discussion will broaden to cover the implementation of a generic security automation platform.
+Examples will be provided of the types of tasks that can be automated, how they can be implemented and the tools available to achieve this.
+
+While this talk aligns with DevSecOps principles, it is distinct in that it does _not_ focus on CI/CD pipeline security.
+Instead, it addresses security automation that extends beyond security for software development activities.
