@@ -5,11 +5,11 @@ details: true
 keynote: false
 layout: talk
 speakers:
-- bio: Information Security Professional with over 15 years in the space industry,
+- bio: "Information Security Professional with over 15 years in the space industry,
     working as a Software Engineer and Technical Project Manager. For the past few
     years, he has focused on offensive security, specializing in vulnerability research,
     exploit development. Holds a number of OffSec certifications, and has been credited
-    with several CVEs.
+    with several CVEs.\r\n\r\nhttps://x.com/0x4ndy\r\nhttps://linkedin.com/in/andrzejolchawa"
   handle: false
   name: Andrzej Olchawa
   photo: https://pretalx.com/media/avatars/1688916584581_m9oZlmS.jpeg
