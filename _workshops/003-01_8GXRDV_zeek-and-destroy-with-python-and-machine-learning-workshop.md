@@ -5,21 +5,6 @@ details: true
 keynote: false
 layout: workshop
 speakers:
-- bio: "Eva Szilagyi is a principal consultant at Alzette Information Security, an
-    information security consulting company based in Europe. She has more than ten
-    years of professional experience in various areas like penetration testing, security
-    source code review, vulnerability management, digital forensics, IT auditing,
-    telecommunication networks, and security research. Eva has two master's degrees
-    in electrical engineering and in networks and telecommunication. She holds several
-    IT security certifications, such as GSEC, GICSP, GCFE, GCIH, GCFA, GMON, GRID,
-    GSSP-JAVA, GWAPT, GDSA, GCDA, GMOB, GMLE, CDP, CCSK, eCIR, eWPT, and eJPT.\r\nEva
-    regularly speaks at international conferences like BruCON, Hack.lu, Nuit du Hack,
-    Hacktivity, Black Alps, BlackHoodie, BSides London, BSides Munich, BSidesBUD,
-    BSides Stuttgart, Pass the SALT, Security Session, SANS @Night Talks, and she
-    is a former member of the organizer team of the Security BSides Luxembourg conference."
-  handle: false
-  name: Eva Szilagyi
-  photo: https://pretalx.com/media/avatars/Eva_Szilagyi_Ritvuru.png
 - bio: "David Szili is a principal consultant at Alzette Information Security, an
     information security consulting company based in Europe. He has more than ten
     years of professional experience in various areas like penetration testing, red
