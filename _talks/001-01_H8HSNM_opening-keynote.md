@@ -21,7 +21,7 @@ speakers:
     like she has something important to share.
   handle: false
   name: Desiree Sacher-Boldewin
-  photo: https://pretalx.com/media/avatars/unnamed_oKaOvWM.jpg
+  photo: https://pretalx.com/media/avatars/E3TWQC_1c6IUu8.jpg
 timeslot:
   duration: 30
   end: 2024-11-11 09:40:00+01:00
@@ -30,4 +30,4 @@ title: Opening Keynote
 track: 1
 ---
 
-In her keynote she will show the unique development of cyber security and the growth of its importance, its impact on the health of today's experts and what each and everyone can do about it every day.
+In her keynote she will show the unique development of cyber security and the growth of it's importance, it's impact on the health of today's experts and what each and everyone can do about it every day.
