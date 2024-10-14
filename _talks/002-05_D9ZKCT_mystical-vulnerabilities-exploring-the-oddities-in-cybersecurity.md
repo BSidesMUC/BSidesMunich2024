@@ -17,13 +17,12 @@ speakers:
     desire to share, and make together the Internet a safer place!"
   handle: false
   name: Massimo Morello
-  photo: https://pretalx.com/media/avatars/1719581283583_J4ZvMgh.jpg
+  photo: https://pretalx.com/media/avatars/QZHZMG_ZgwKrEe.jpg
 timeslot:
   duration: 30
   end: 2024-11-11 13:00:00+01:00
   start: 2024-11-11 12:30:00+01:00
-title: 'Mystical Vulnerabilities | Mystical Vulnerabilities: Exploring the Oddities
-  in Cybersecurity'
+title: 'Mystical Vulnerabilities: Exploring the Oddities in Cybersecurity'
 track: 2
 ---
 

@@ -30,4 +30,4 @@ title: Opening Keynote
 track: 1
 ---
 
-In her keynote she will show the unique development of cyber security and the growth of it's importance, it's impact on the health of today's experts and what each and everyone can do about it every day.
+In her keynote she will show the unique development of cyber security and the growth of its importance, its impact on the health of today's experts and what each and everyone can do about it every day.

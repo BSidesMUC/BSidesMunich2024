@@ -5,10 +5,16 @@ details: true
 keynote: false
 layout: talk
 speakers:
-- bio: "Björn Trappe is one of the founders and managing directors of Laokoon Security, a company formed by a team of former offensive cybersecurity experts from the German armed forces and other security agencies. With a deep specialization in orchestrating and executing Red Team engagements, Björn leads his teams in comprehensive attack strategies that extend beyond IT-perimeter defenses to include physical security breaches. His work is driven by a commitment to exposing and addressing the full spectrum of organizational vulnerabilities."
+- bio: Bjoern Trappe is one of the founders and managing directors of Laokoon Security,
+    a company formed by a team of former offensive cybersecurity experts from the
+    German armed forces and other security agencies. With a deep specialization in
+    orchestrating and executing Red Team engagements, Bjoern leads his teams in comprehensive
+    attack strategies that extend beyond IT-perimeter defenses to include physical
+    security breaches. His work is driven by a commitment to exposing and addressing
+    the full spectrum of organizational vulnerabilities.
   handle: false
-  name: Björn Trappe
-  photo: https://pretalx.com/media/avatars/IMG_1941_VSyBQKT.png
+  name: Bjoern Trappe
+  photo: https://pretalx.com/media/avatars/G38AUU_Vw0Ctjl.png
 timeslot:
   duration: 30
   end: 2024-11-11 12:00:00+01:00

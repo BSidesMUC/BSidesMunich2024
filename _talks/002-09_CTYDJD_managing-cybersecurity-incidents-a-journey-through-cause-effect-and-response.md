@@ -13,7 +13,7 @@ speakers:
     Response (DFIR) topics, sharing my knowledge and experiences.
   handle: false
   name: Denes Fodor
-  photo: https://pretalx.com/media/avatars/FD_cartoon_s6gSmNw.png
+  photo: https://pretalx.com/media/avatars/A8JWRN_cMMYFPX.png
 timeslot:
   duration: 30
   end: 2024-11-11 16:30:00+01:00
@@ -24,4 +24,4 @@ track: 2
 
 In this talk, we delve into the world of Digital Forensics and Incident Response (DFIR).
 We will cover the basics, such as the process and terminology, and examine two distinct incidents.
-For each incident, I will explain the what and how of the attack, the lessons learned, and the often overlooked human aspect of incident response.
+For each incident, I will explain the 'what' and 'how' of the attack, the lessons learned, and the often overlooked human aspect of incident response.

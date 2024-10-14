@@ -20,18 +20,18 @@ speakers:
     he is just getting started!"
   handle: false
   name: Moritz Thomas
-  photo: https://pretalx.com/media/avatars/dbb539e6-2fd1-4f1e-82c3-b85bdefe62cd_1vySmjx.jpg
+  photo: https://pretalx.com/media/avatars/YTSAEW_ObXJMCU.jpg
 - bio: Firat is a senior red teamer within NVISO. His specialties include the whole
     red team attack cycle, mainly the internal network and Active Directory part,
     as well as physically breaching company defenses.
   handle: false
   name: Firat Acar
-  photo: https://pretalx.com/media/avatars/firat_lapland_2_IETUl0W.png
+  photo: https://pretalx.com/media/avatars/G3MKN7_bpaqXE3.png
 timeslot:
   duration: 30
   end: 2024-11-11 16:00:00+01:00
   start: 2024-11-11 15:30:00+01:00
-title: "Let's Get Physical: Stories From Behind Your Company's Gate"
+title: 'Let''s Get Physical: Stories From Behind Your Company''s Gate'
 track: 1
 ---
 
