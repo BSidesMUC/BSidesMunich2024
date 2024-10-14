@@ -14,7 +14,7 @@ speakers:
     at ottonova.
   handle: false
   name: Janosch Braukmann
-  photo: https://pretalx.com/media/avatars/Janosch_Braukmann-aa0fbd81813074c63b25a7d10be4f679_aG3iq2o.jpg
+  photo: https://pretalx.com/media/avatars/GZL39U_xkbWAa5.jpg
 timeslot:
   duration: 120
   end: 2024-11-09 18:00:00+01:00

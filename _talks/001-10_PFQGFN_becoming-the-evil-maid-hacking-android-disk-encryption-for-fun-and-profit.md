@@ -21,7 +21,7 @@ speakers:
     Linux' UBIFS subsystem."
   handle: false
   name: David Gstir
-  photo: https://pretalx.com/media/avatars/4fa96225b004d4d6164aa15d68984900_gs51P8D.jpg
+  photo: https://pretalx.com/media/avatars/3ZJHLZ_9lnms1V.jpg
 timeslot:
   duration: 45
   end: 2024-11-11 16:30:00+01:00

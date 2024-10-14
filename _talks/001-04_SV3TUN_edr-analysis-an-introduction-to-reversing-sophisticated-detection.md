@@ -20,7 +20,7 @@ speakers:
     regularly for more than ten years."
   handle: false
   name: Daniel Feichter
-  photo: https://pretalx.com/media/avatars/f4ad01758c3e951c7e77cb80882fb6e7_Mc0LrrK.jpg
+  photo: https://pretalx.com/media/avatars/C3GT7F_tVTndoz.jpg
 timeslot:
   duration: 30
   end: 2024-11-11 12:00:00+01:00

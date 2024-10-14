@@ -13,7 +13,7 @@ speakers:
     and effective in moving organizations forward as tools and technology.
   handle: false
   name: Michael Helwig
-  photo: https://pretalx.com/media/avatars/profil3_qDUL8xk.jpg
+  photo: https://pretalx.com/media/avatars/VTB8G9_St413qV.jpg
 - bio: Initially specializing in cyber security, I have devoted myself more and more
     to the field of machine learning in recent years. Last year, I combined the two
     for the first time and conducted research in the field of penetration testing
@@ -21,7 +21,7 @@ speakers:
     learning in the most diverse areas of cyber security.
   handle: false
   name: Benjamin Altmiks
-  photo: https://pretalx.com/media/avatars/Benjamin_ndMVtbv.jpg
+  photo: https://pretalx.com/media/avatars/8HQCQV_X7HB5OX.jpg
 timeslot:
   duration: 240
   end: 2024-11-09 13:00:00+01:00

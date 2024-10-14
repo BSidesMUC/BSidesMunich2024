@@ -11,7 +11,7 @@ speakers:
     computing.
   handle: false
   name: Jonathan Prince
-  photo: https://pretalx.com/media/avatars/PRINCE_Jonathan_u6bO0zN.jpg
+  photo: https://pretalx.com/media/avatars/YHQBDV_JF8WoJu.jpg
 timeslot:
   duration: 30
   end: 2024-11-11 17:10:00+01:00

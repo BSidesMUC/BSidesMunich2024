@@ -19,7 +19,7 @@ speakers:
     and collaborations.\r\n\r\nFor more details, you can refer to his [GitHub profile](https://github.com/hgn)."
   handle: false
   name: Hagen Paul Pfeifer
-  photo: https://pretalx.com/media/avatars/ad74b04704a015b05aeae7c5afb8fe95_IerlMtu.jpg
+  photo: https://pretalx.com/media/avatars/MY8CQV_7rYbSPJ.jpg
 timeslot:
   duration: 30
   end: 2024-11-11 15:00:00+01:00

@@ -14,7 +14,7 @@ speakers:
     in corporate network settings.
   handle: false
   name: Tomer Doitshman
-  photo: https://pretalx.com/media/avatars/tomer_1dtClXB.jpeg
+  photo: https://pretalx.com/media/avatars/TWD3EG_gYv2gfp.jpeg
 timeslot:
   duration: 30
   end: 2024-11-11 10:30:00+01:00

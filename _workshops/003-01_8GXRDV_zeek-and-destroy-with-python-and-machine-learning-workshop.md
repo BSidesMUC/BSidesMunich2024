@@ -24,7 +24,7 @@ speakers:
     Luxembourg conference."
   handle: false
   name: David Szili
-  photo: https://pretalx.com/media/avatars/David_Szili_M2C2e3W.png
+  photo: https://pretalx.com/media/avatars/PTRYM8_aIQKnqK.png
 timeslot:
   duration: 240
   end: 2024-11-09 13:00:00+01:00

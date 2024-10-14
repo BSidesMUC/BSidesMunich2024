@@ -15,7 +15,7 @@ speakers:
     at numerous conferences, sharing his expertise with audiences worldwide.
   handle: false
   name: Stephan Berger
-  photo: https://pretalx.com/media/avatars/1617201139650_tqPYaKg.jpeg
+  photo: https://pretalx.com/media/avatars/C7AHN8_47MLxww.jpeg
 - bio: Asger Strunk is a highly skilled IT security professional with a wealth of
     experience spanning over a decade. Throughout his career, Asger has been involved
     in both offensive and defensive security operations, working tirelessly to protect
@@ -26,7 +26,7 @@ speakers:
     a level of expertise that is unmatched in the industry.
   handle: false
   name: Asger Strunk
-  photo: https://pretalx.com/media/avatars/_proc_for_Security_Analysts___deleuranstrunk_asger_TnQAPnI.jpg
+  photo: https://pretalx.com/media/avatars/ST7XDJ_bdzXrFW.jpg
 timeslot:
   duration: 30
   end: 2024-11-11 11:00:00+01:00

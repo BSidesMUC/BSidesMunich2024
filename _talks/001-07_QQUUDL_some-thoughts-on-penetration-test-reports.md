@@ -8,7 +8,7 @@ speakers:
 - bio: CEO of MOGWAI LABS, a small cyber security boutique.
   handle: false
   name: Hans-Martin Muench
-  photo: https://pretalx.com/media/avatars/hmm_face_mini_xBZ25ly.jpg
+  photo: https://pretalx.com/media/avatars/Y3AYKX_ZWbQegs.jpg
 timeslot:
   duration: 30
   end: 2024-11-11 14:30:00+01:00

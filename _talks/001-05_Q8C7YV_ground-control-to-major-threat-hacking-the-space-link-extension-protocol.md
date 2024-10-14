@@ -12,7 +12,7 @@ speakers:
     with several CVEs.\r\n\r\nhttps://x.com/0x4ndy\r\nhttps://linkedin.com/in/andrzejolchawa"
   handle: false
   name: Andrzej Olchawa
-  photo: https://pretalx.com/media/avatars/1688916584581_m9oZlmS.jpeg
+  photo: https://pretalx.com/media/avatars/SDYTSV_BScA7P2.jpeg
 timeslot:
   duration: 30
   end: 2024-11-11 12:30:00+01:00

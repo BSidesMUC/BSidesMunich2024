@@ -12,7 +12,7 @@ speakers:
     of public and private offensive tools.
   handle: false
   name: Stuart McMurray
-  photo: https://pretalx.com/media/avatars/Profile_Picture_o7EMNhz.png
+  photo: https://pretalx.com/media/avatars/SUCUBB_KbPmGvG.png
 timeslot:
   duration: 30
   end: 2024-11-11 11:00:00+01:00

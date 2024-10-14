@@ -14,7 +14,7 @@ speakers:
     Truesec's forensic tooling.
   handle: false
   name: Alexander
-  photo: https://pretalx.com/media/avatars/alex23_DJPAhPK.jpg
+  photo: https://pretalx.com/media/avatars/KVD3EB_hM3AccM.jpg
 timeslot:
   duration: 30
   end: 2024-11-11 15:00:00+01:00

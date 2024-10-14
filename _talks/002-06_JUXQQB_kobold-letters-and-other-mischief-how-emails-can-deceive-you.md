@@ -12,7 +12,7 @@ speakers:
     one vulnerability at a time.
   handle: false
   name: Konstantin Weddige
-  photo: https://pretalx.com/media/avatars/portrait_01_700_MS2WZDE.png
+  photo: https://pretalx.com/media/avatars/W3P9PN_HX42qre.png
 timeslot:
   duration: 30
   end: 2024-11-11 14:30:00+01:00

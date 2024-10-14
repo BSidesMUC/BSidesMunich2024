@@ -11,7 +11,7 @@ speakers:
     aspects of computers he enjoys growing lithops.
   handle: false
   name: Richard Weinberger
-  photo: https://pretalx.com/media/avatars/rw_headshot_K7NrztV.jpg
+  photo: https://pretalx.com/media/avatars/NPJPNG_CbhR4NV.jpg
 timeslot:
   duration: 30
   end: 2024-11-11 12:30:00+01:00
