@@ -10,14 +10,15 @@ speakers:
     and communications engineering, and started as a junior penetration tester in
     2018. He found his purpose in ethical hacking and can't imagine doing anything
     else since. At the end of 2021, he decided to start his own company called RedOps
-    to live out his research spirit and focus even more on his main area of interest.
-    \r\n\r\nHis focus is on continuing to learn about Windows Internals, endpoint
-    security, malware development, and reverse engineering. He regularly shares his
-    research in the form of blog posts, conference talks, and workshops. He has spoken
-    and taught at conferences such as DEFCON 30 (Adversary Village), DEFCON 31 (Red
-    Team Village), SANS Hackfest, BSides Munich, etc. When not in front of the computer,
-    he enjoys spending time with his family and friends and has been practicing taekwondo
-    regularly for more than ten years."
+    to live out his research spirit and focus even more on his main area of interest.\r\n\r\nHis
+    focus is on continuing to learn about Windows Internals, endpoint security, malware
+    development, and reverse engineering. He regularly shares his research in the
+    form of blog posts, conference talks, and workshops. He has spoken and taught
+    at conferences such as DEFCON 30 (Adversary Village), DEFCON 31 (Red Team Village),
+    SANS Hackfest, BSides Munich, MCTTP, etc. \r\n\r\nSince October 2024, Daniel has
+    joined the ARES Red Team at NVISO and works there as a Red Team Operator.\r\n\r\nWhen
+    not in front of the computer, he enjoys spending time with his family and friends,
+    playing tennis, and has been practicing taekwondo regularly for over ten years."
   handle: false
   name: Daniel Feichter
   photo: https://pretalx.com/media/avatars/C3GT7F_tVTndoz.jpg
