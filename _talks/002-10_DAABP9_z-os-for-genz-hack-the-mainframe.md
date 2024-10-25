@@ -22,5 +22,5 @@ track: 2
 
 Discover the critical role of mainframe computing in today's digital landscape.
 This talk delves into the enduring relevance of mainframes, exploring how they underpin many of the world's most essential systems.
-We will address a series of emerging challenges that, if left unchecked, could converge into a perfect storm, threatening the stability and security of these vital infrastructures.
+We will address a series of emerging challenges that, if left unchecked, could converge into a perfect storm, threatening the stability and security of these vital infrastructure components.
 The session culminates with a live demonstration, showcasing a real-time hack of a mainframe, to highlight vulnerabilities and the importance of robust security measures.
