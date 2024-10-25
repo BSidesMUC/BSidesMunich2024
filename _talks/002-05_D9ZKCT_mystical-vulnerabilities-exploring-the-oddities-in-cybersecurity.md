@@ -5,16 +5,20 @@ details: true
 keynote: false
 layout: talk
 speakers:
-- bio: "Massimo is a passionate Cyber Security Analyst, currently collaborating with
-    Kemetmueller Information Security on vulnerabilities research, their trends, and
-    how to efficiently face the storm. Formerly employed at the European Central Bank,
-    where he took care of vulnerability management as well, his approach in such a
-    dynamic realm is complemented by a keen interest in GRC, to try to see the problems
-    from a broader perspective.\r\nHis paper \"Regulatory Compliance Verification:
-    A Privacy Preserving Approach\" was presented last year at the CSNet 2023 (IEEE
-    ComSoc) conference in Montreal.\r\nTwo master's degrees in Cyber Security (ouch!)
-    with minor in Digital Innovation & Entrepreneurship, and a lot of thirst for knowledge,
-    desire to share, and make together the Internet a safer place!"
+- bio: "Massimo is a passionate Cyber Security Analyst, currently working in the Deutsche
+    Börse Group (Eurex Clearing) as an Associate Information Security Specialist.
+    Previously collaborating with Kemetmueller Information Security on vulnerabilities
+    research, their trends, and how to efficiently face the storm. In addition, he
+    was formerly employed at the European Central Bank as an IT Security Trainee,
+    where he took care of Vulnerability Management as well.\r\nHis approach in such
+    a dynamic realm is complemented by a keen interest in Security Governance, IT
+    Risk Management, and IT Compliance (especially with DORA and ISO 27001) in order
+    to try to see the problems from a broader perspective.\r\nHis paper \"Regulatory
+    Compliance Verification: A Privacy Preserving Approach\" was presented last year
+    at the CSNet 2023 (IEEE ComSoc) conference in Montreal.\r\nTwo master's degrees
+    in Cyber Security (ouch!) with minor in Digital Innovation & Entrepreneurship,
+    and a lot of thirst for knowledge, desire to share, and make together the Internet
+    a safer place!"
   handle: false
   name: Massimo Morello
   photo: https://pretalx.com/media/avatars/QZHZMG_ZgwKrEe.jpg
