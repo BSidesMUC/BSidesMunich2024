@@ -6,7 +6,7 @@ keynote: false
 layout: talk
 speakers:
 - bio: "Massimo is a passionate Cyber Security Analyst, currently working in the Deutsche
-    Börse Group (Eurex Clearing) as an Associate Information Security Specialist.
+    Boerse Group (Eurex Clearing) as an Associate Information Security Specialist.
     Previously collaborating with Kemetmueller Information Security on vulnerabilities
     research, their trends, and how to efficiently face the storm. In addition, he
     was formerly employed at the European Central Bank as an IT Security Trainee,
