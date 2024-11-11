@@ -5,11 +5,18 @@ details: true
 keynote: false
 layout: talk
 speakers:
-- bio: .
+- bio: Suffering from persistent earworms, Jenn works as an earthling cyber security
+    and privacy governance manager by day. Her nights and weekends are littered with
+    jogging, 3d printing, video-editing, music-making, hiking, AI exploring and TV-binging.
+    She prefers to undertake difficult tasks with epic background music and perpetually
+    seeks early-evening karaoke and jeans made for short-legged tall people.
   handle: false
   name: Jennifer Janesko
   photo: https://pretalx.com/media/avatars/ETDJG7_ocLcm14.jpeg
-- bio: .
+- bio: Sneha has been working in the field of information security for over a decade
+    now, she has spoken and provided training at various international security conferences.
+    Outside work, she likes to take small hikes in the alps, spends her time building
+    the 75192 Millennium Falcon and is obsessed with Darth Vader.
   handle: false
   name: Sneha Rajguru
   photo: ''
