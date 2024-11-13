@@ -17,7 +17,7 @@ timeslot:
   start: 2024-11-11 15:30:00+01:00
 title: 'Beyond Manual: Enhancing and Scaling Security with Automation'
 track: 2
-recording_uri: 
+recording_uri: https://youtu.be/j-y1vCYElNc
 slides_uri: /files/slides/002-08_3NQ8D3_beyond-manual-enhancing-and-scaling-security-with-automation.pdf
 ---
 

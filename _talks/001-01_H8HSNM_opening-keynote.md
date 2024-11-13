@@ -28,6 +28,8 @@ timeslot:
   start: 2024-11-11 09:10:00+01:00
 title: Opening Keynote
 track: 1
+recording_uri: http://youtu.be/zM7vvupsluc
+slides_uri: 
 ---
 
 In her keynote she will show the unique development of cyber security and the growth of its importance, its impact on the health of today's experts and what each and everyone can do about it every day.

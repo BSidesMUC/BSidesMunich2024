@@ -9,7 +9,7 @@ timeslot:
   end: 2024-11-11T18:00:00+01:00
   duration: 10
 speakers: 
-recording_uri: 
+recording_uri: https://youtu.be/jZaYHyu1BOs
 slides_uri: 
 ---
 

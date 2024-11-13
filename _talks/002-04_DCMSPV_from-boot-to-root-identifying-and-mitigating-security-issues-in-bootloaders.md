@@ -18,7 +18,7 @@ timeslot:
   start: 2024-11-11 12:00:00+01:00
 title: 'From Boot to Root: Identifying and Mitigating Security Issues in Bootloaders'
 track: 2
-recording_uri: 
+recording_uri: https://youtu.be/c0f-fFvyjLs
 slides_uri: /files/slides/002-04_DCMSPV_from-boot-to-root-identifying-and-mitigating-security-issues-in-bootloaders.pdf
 ---
 

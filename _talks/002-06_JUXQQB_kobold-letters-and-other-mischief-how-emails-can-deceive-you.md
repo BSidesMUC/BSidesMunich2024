@@ -19,7 +19,7 @@ timeslot:
   start: 2024-11-11 14:00:00+01:00
 title: Kobold Letters and Other Mischief - How Emails Can Deceive You
 track: 2
-recording_uri: 
+recording_uri: https://youtu.be/ko9cwRM3BZU
 slides_uri: /files/slides/002-06_JUXQQB_kobold-letters-and-other-mischief-how-emails-can-deceive-you.pdf
 ---
 

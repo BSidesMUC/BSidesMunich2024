@@ -33,6 +33,8 @@ timeslot:
   start: 2024-11-11 10:30:00+01:00
 title: '/proc for Security Analysts: Unveiling Hidden Threats and Forensic Treasures'
 track: 2
+recording_uri: http://youtu.be/eeYptKewVQ0
+slides_uri:
 ---
 
 In the intricate landscape of cybersecurity, the ability to uncover hidden threats and analyze system behaviors is paramount.

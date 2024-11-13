@@ -19,7 +19,7 @@ timeslot:
   start: 2024-11-11 10:30:00+01:00
 title: Demystifying the First Few Minutes After Compromising a Container
 track: 1
-recording_uri: 
+recording_uri: http://youtu.be/j4757Q06ev8
 slides_uri: /files/slides/001-03_NQDH8L_demystifying-the-first-few-minutes-after-compromising-a-container.pdf
 ---
 

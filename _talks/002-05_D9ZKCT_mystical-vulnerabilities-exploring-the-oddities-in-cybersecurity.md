@@ -28,7 +28,7 @@ timeslot:
   start: 2024-11-11 12:30:00+01:00
 title: 'Mystical Vulnerabilities: Exploring the Oddities in Cybersecurity'
 track: 2
-recording_uri: 
+recording_uri: https://youtu.be/-xtMZhHXViY
 slides_uri: /files/slides/002-05_D9ZKCT_mystical-vulnerabilities-exploring-the-oddities-in-cybersecurity.pdf
 ---
 

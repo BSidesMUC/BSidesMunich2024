@@ -26,7 +26,7 @@ timeslot:
   start: 2024-11-11 14:30:00+01:00
 title: Reverse Engineering and Control Flow Analysis with Intel Processor Trace
 track: 2
-recording_uri: 
+recording_uri: https://youtu.be/J82SfNxkH6k
 slides_uri: /files/slides/002-07_ZVGDJW_reverse-engineering-and-control-flow-analysis-with-intel-processor-trace.pdf
 ---
 

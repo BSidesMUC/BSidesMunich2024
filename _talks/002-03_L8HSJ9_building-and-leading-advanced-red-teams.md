@@ -21,7 +21,7 @@ timeslot:
   start: 2024-11-11 11:30:00+01:00
 title: Building and Leading Advanced Red Teams
 track: 2
-recording_uri: 
+recording_uri: https://youtu.be/_kQS87Ohnm0
 slides_uri: /files/slides/002-03_L8HSJ9_building-and-leading-advanced-red-teams.pdf
 ---
 

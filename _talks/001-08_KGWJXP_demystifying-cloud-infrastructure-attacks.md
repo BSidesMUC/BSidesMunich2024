@@ -21,6 +21,8 @@ timeslot:
   start: 2024-11-11 14:30:00+01:00
 title: Demystifying Cloud Infrastructure Attacks
 track: 1
+recording_uri: http://youtu.be/QtcyBpM4UCw
+slides_uri:
 ---
 
 Threat actor tactics in a classic on-premises environment are well documented and understood.

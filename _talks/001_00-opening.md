@@ -10,7 +10,7 @@ timeslot:
   duration: 10
 speakers: 
   - name: 
-recording_uri: 
+recording_uri: https://youtu.be/osPEOGgkJjY
 slides_uri: 
 ---
 

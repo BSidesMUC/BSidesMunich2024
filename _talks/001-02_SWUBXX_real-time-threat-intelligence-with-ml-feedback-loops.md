@@ -21,7 +21,7 @@ timeslot:
   start: 2024-11-11 10:00:00+01:00
 title: Real-Time Threat Intelligence with ML Feedback Loops
 track: 1
-recording_uri: 
+recording_uri: http://youtu.be/a1VFajvpJgM
 slides_uri: /files/slides/001-02_SWUBXX_real-time-threat-intelligence-with-ml-feedback-loops.pdf
 ---
 

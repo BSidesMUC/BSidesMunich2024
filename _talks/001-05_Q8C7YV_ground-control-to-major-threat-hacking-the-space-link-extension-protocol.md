@@ -19,6 +19,8 @@ timeslot:
   start: 2024-11-11 12:00:00+01:00
 title: Ground Control to Major Threat - Hacking the Space Link Extension Protocol
 track: 1
+recording_uri: http://youtu.be/CJncXmQ5RYw
+slides_uri:
 ---
 
 Space missions have increasingly been the subject in the context of security breaches and satellite hacks.

@@ -25,7 +25,7 @@ timeslot:
 title: A Security Champion's Journey - How to Make Things a Bit More Secure than Yesterday
   Every Day
 track: 1
-recording_uri: 
+recording_uri: http://youtu.be/GYPHKMjZwAc
 slides_uri: /files/slides/001-06_8WD3DN_a-security-champion-s-journey-how-to-make-things-a-bit-more-secure-than-yesterday-every-day.pdf
 ---
 

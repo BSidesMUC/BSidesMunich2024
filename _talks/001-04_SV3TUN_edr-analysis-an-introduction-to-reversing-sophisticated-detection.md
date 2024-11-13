@@ -27,6 +27,8 @@ timeslot:
   start: 2024-11-11 11:30:00+01:00
 title: 'EDR Analysis: An Introduction to Reversing Sophisticated Detection'
 track: 1
+recording_uri: 
+slides_uri:
 ---
 
 Today, a prep phase against endpoint protection (EPP) and endpoint detection and response (EDR) products is part of every red team engagement, and preparing to create evasive malware that bypasses the targeted EDR to gain initial access can often be very time consuming.

@@ -33,7 +33,7 @@ timeslot:
   start: 2024-11-11 15:30:00+01:00
 title: 'Let''s Get Physical: Stories From Behind Your Company''s Gate'
 track: 1
-recording_uri: 
+recording_uri: http://youtu.be/57Wndc1DRfU
 slides_uri: /files/slides/001-09_XFZLKA_let-s-get-physical-stories-from-behind-your-company-s-gate.pdf
 ---
 

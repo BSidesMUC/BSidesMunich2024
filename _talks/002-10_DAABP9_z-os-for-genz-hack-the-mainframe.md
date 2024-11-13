@@ -18,7 +18,7 @@ timeslot:
   start: 2024-11-11 16:40:00+01:00
 title: z/OS for GenZ - Hack the Mainframe
 track: 2
-recording_uri: 
+recording_uri: https://youtu.be/5K4R4qLwSlc
 slides_uri: /files/slides/002-10_DAABP9_z-os-for-genz-hack-the-mainframe.pdf
 ---
 

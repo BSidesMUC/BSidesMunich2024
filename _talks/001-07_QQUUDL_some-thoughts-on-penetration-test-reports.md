@@ -15,6 +15,8 @@ timeslot:
   start: 2024-11-11 14:00:00+01:00
 title: Some Thoughts on Penetration Test Reports
 track: 1
+recording_uri: http://youtu.be/mZLltW_KEKQ
+slides_uri:
 ---
 
 Writing the report is the least favorite part of most penetration tests.
