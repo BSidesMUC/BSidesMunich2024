@@ -17,6 +17,8 @@ timeslot:
   start: 2024-11-11 15:30:00+01:00
 title: 'Beyond Manual: Enhancing and Scaling Security with Automation'
 track: 2
+recording_uri: 
+slides_uri: /files/slides/002-08_3NQ8D3_beyond-manual-enhancing-and-scaling-security-with-automation.pdf
 ---
 
 Security teams are often short-staffed and overburdened, but many of their tasks can be automated to alleviate this pressure.

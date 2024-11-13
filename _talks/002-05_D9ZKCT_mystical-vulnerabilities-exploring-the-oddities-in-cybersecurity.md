@@ -28,6 +28,8 @@ timeslot:
   start: 2024-11-11 12:30:00+01:00
 title: 'Mystical Vulnerabilities: Exploring the Oddities in Cybersecurity'
 track: 2
+recording_uri: 
+slides_uri: /files/slides/002-05_D9ZKCT_mystical-vulnerabilities-exploring-the-oddities-in-cybersecurity.pdf
 ---
 
 In the Information Security world, where many researchers crave to enhance their resume, the aid represented by the concepts of CVE and CVSS is paradoxally and slowly disrupting the vulnerability categorization and management process.

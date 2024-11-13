@@ -21,6 +21,8 @@ timeslot:
   start: 2024-11-11 11:30:00+01:00
 title: Building and Leading Advanced Red Teams
 track: 2
+recording_uri: 
+slides_uri: /files/slides/002-03_L8HSJ9_building-and-leading-advanced-red-teams.pdf
 ---
 
 After years of acquiring Red Teaming skills, Senior Red Teamers (sometimes unexpectedly) grow into a lead position at some point in their career.

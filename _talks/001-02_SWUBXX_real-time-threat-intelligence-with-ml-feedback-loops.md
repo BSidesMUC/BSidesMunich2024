@@ -21,6 +21,8 @@ timeslot:
   start: 2024-11-11 10:00:00+01:00
 title: Real-Time Threat Intelligence with ML Feedback Loops
 track: 1
+recording_uri: 
+slides_uri: /files/slides/001-02_SWUBXX_real-time-threat-intelligence-with-ml-feedback-loops.pdf
 ---
 
 Threat intelligence is one of the most critical lines of defense today for safeguarding organizations from malware and other potential attack vectors that can compromise business continuity and stability.

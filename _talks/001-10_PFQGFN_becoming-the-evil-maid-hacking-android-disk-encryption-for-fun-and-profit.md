@@ -28,6 +28,8 @@ timeslot:
   start: 2024-11-11 16:00:00+01:00
 title: Becoming the Evil Maid - Hacking Android Disk Encryption for Fun and Profit
 track: 1
+recording_uri: 
+slides_uri: /files/slides/001-10_PFQGFN_becoming-the-evil-maid-hacking-android-disk-encryption-for-fun-and-profit.pdf
 ---
 
 Loosing your smartphone is painful enough, but having your data on there exposed to others can

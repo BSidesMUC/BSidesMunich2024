@@ -25,6 +25,8 @@ timeslot:
 title: A Security Champion's Journey - How to Make Things a Bit More Secure than Yesterday
   Every Day
 track: 1
+recording_uri: 
+slides_uri: /files/slides/001-06_8WD3DN_a-security-champion-s-journey-how-to-make-things-a-bit-more-secure-than-yesterday-every-day.pdf
 ---
 
 "Congratulations, you're the new security champion for your team! Now make sure to get all these important security topics done, okay? But don't get in the way of feature development."

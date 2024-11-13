@@ -26,6 +26,8 @@ timeslot:
   start: 2024-11-11 16:00:00+01:00
 title: 'NIS2 and CRA: From Legislation to Execution'
 track: 2
+recording_uri: 
+slides_uri: /files/slides/002-09_KCKTLP_nis2-and-cra-from-legislation-to-execution.pdf
 ---
 
 There is an increase in new EU legislation that requires cyber security measures.

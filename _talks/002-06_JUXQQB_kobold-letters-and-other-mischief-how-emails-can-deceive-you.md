@@ -19,6 +19,8 @@ timeslot:
   start: 2024-11-11 14:00:00+01:00
 title: Kobold Letters and Other Mischief - How Emails Can Deceive You
 track: 2
+recording_uri: 
+slides_uri: /files/slides/002-06_JUXQQB_kobold-letters-and-other-mischief-how-emails-can-deceive-you.pdf
 ---
 
 It often doesn't take much for a phishing email to fool its victim, but that doesn't mean there isn't more to it: This talk will look at technical attacks on email that have the potential to elevate the risk of phishing attacks - if that was even necessary - and discuss what it would take to mitigate these attacks.

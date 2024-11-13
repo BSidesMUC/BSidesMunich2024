@@ -18,6 +18,8 @@ timeslot:
   start: 2024-11-11 16:40:00+01:00
 title: z/OS for GenZ - Hack the Mainframe
 track: 2
+recording_uri: 
+slides_uri: /files/slides/002-10_DAABP9_z-os-for-genz-hack-the-mainframe.pdf
 ---
 
 Discover the critical role of mainframe computing in today's digital landscape.

@@ -33,6 +33,8 @@ timeslot:
   start: 2024-11-11 15:30:00+01:00
 title: 'Let''s Get Physical: Stories From Behind Your Company''s Gate'
 track: 1
+recording_uri: 
+slides_uri: /files/slides/001-09_XFZLKA_let-s-get-physical-stories-from-behind-your-company-s-gate.pdf
 ---
 
 In this light-hearted session led by experienced red teamers, participants will explore the intricate world of physical security breaches in corporate settings.
